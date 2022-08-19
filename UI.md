@@ -109,7 +109,7 @@ UI should show:
         "code": 200,
         "data": [
             {
-                "contributor":"yuki"            
+                "contributor":"Shimin Wang, Philippe Chai, Jing Chen, Yu Zhu"            
             }
         ],
         "message":"ok"
