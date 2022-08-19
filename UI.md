@@ -92,6 +92,35 @@ what we must have in this page:
 UI should show:
 ![img_4.png](img_4.png)
 
+#### API
+##### getContributorInfo
+###### Request
+
+- Method: **GET**
+- URL: `api/v1/contributorInfo`
+- Params: `NULL`
+- Body: `{"url":"https://cedt-icg-bitbucket.nam.nsroot.net/bitbucket/projects/GSP-DEVOPS-166569/repos/gsp-pipeline-example-python/browse"}`
+
+###### Response
+
+- Successful 2××
+    ```json
+    {
+        "code": 200,
+        "data": [
+            {
+                "contributor":"yuki"            
+            }
+        ],
+        "message":"ok"
+    }
+    ```
+When the Contributor switch is turned on, the editor interface will add names, UI should show:
+![img.png](img.png)
+
+
+
+
 
 
 

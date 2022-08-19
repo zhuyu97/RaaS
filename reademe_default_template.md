@@ -89,6 +89,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 Thanks to the following people for their contributions to this project, please
 add your name here if you even push to this repository.
 ```text
+Shimin Wang, Philippe Chai, Jing Chen, Yu Zhu
 ...
 ```
 
